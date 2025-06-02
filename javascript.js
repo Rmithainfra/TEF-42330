@@ -40,7 +40,7 @@ var viewer = pannellum.viewer('panorama', {
         "maxPitch": 25,
         "yaw": -1,
         "compass":true,
-        "northOffset":-1
+        "northOffset":1
       },  
     }
 });
